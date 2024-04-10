@@ -1,0 +1,55 @@
+.solida
+{
+    border-style: solid ridge dotted inset;
+    border-width: 5px 5px 5px 5px;
+    border-color: blueviolet red green blanchedalmond;
+
+}
+
+.dotted
+{
+    border-style: dotted;
+    border-color: blueviolet brown rgb(57, 156, 156) burlywood;
+}
+
+.dashed
+{
+    border-style: dashed;
+    border-color: aqua blueviolet red burlywood;
+}
+
+.double
+{
+    border-style: double;
+
+}
+
+.groove
+{
+    border-style: groove;
+}
+
+.ridge
+{
+    border-style: ridge;
+}
+
+.inset
+{
+    border-style: inset;
+}
+
+.outset
+{
+    border-style: outset;
+}
+
+.none
+{
+    border-style: none;
+}
+
+.hidden
+{
+    border-style: hidden;
+}
